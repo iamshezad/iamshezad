@@ -15,7 +15,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshezad&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshezad&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshezad&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </p>
 
 
