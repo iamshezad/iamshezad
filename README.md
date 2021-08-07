@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**iamshezad/iamshezad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as mobile developer @ Hashinclude.io
+- 🌱 I’m currently learning SwiftUI
+- 💬 Ask me about mobile app development
+- 📫 How to reach me: iamshezad.dev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamshezad&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshezad&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
