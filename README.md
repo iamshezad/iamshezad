@@ -6,7 +6,7 @@
 - 💬 Ask me about mobile app development
 - 📫 How to reach me: 
 
-<a  href="https://www.instagram.com/iamshezad.dev/"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> </a>   <a  href="https://www.instagram.com/iamshezad.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/iamshezad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a  href="mailto:iamshezad.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> </a>   <a  href="https://www.instagram.com/iamshezad.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/iamshezad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### Tools I work upon : 🛠
 
