@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Shezad Ahamed!](https://iamshezad.github.io/)
 
 
-- 🔭 I’m currently working as mobile developer @ Hashinclude.io
+- 📱 Mobile Developer / Freelancer
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about mobile app development
 - 📫 How to reach me: 
