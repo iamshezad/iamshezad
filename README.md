@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Shezad Ahamed!](https://iamshezad.github.io/)
 
 
-- 📱 Mobile Developer / Freelancer
+- 📱 Product Engineer | Mobile & Web
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about mobile app development
 - 📫 How to reach me: 
